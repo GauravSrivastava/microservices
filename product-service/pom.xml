@@ -14,7 +14,7 @@
 	<name>product-service</name>
 	<description>Product Service</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -53,7 +53,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>product-service-exe</finalName>
 	</build>
 
 </project>
